@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="" target="_blank">Live Site</a>
+  <a href="https://ketanc-portfolio.netlify.app/" target="_blank">Live Site</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="https://i.ibb.co/yWt9CV3/Screenshot-2023-02-19-at-1-30-48-PM.png" />
